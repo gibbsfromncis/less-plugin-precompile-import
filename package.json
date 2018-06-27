@@ -1,0 +1,23 @@
+{
+  "name": "less-plugin-precompile-import",
+  "version": "1.0.0",
+  "description": "Less plugin to compile less before import it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gibbsfromncis/less-plugin-precompile-import.git"
+  },
+  "keywords": [
+    "less",
+    "less-plugin"
+  ],
+  "author": "Leroy Gethro Gibbs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gibbsfromncis/less-plugin-precompile-import/issues"
+  },
+  "homepage": "https://github.com/gibbsfromncis/less-plugin-precompile-import#readme"
+}
